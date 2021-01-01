@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PIoMuWPj2A5Az435jxeRjlCEl3ispgxfkRHj3SbVjbh00+UWDcljNlhjSRD28vtSiBKrredVTLBcmJnxnFn9vA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\55659\\source\\repos\\TiposLayout\\TiposLayout\\TiposLayout\\TiposLayout.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\55659\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\55659\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\55659\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.1558-pre3\\xamarin.forms.5.0.0.1558-pre3.nupkg.sha512"
+  ],
+  "logs": []
+}

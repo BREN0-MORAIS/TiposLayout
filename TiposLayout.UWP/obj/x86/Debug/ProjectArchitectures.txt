@@ -1,0 +1,1 @@
+C:\Users\55659\source\repos\TiposLayout\TiposLayout\TiposLayout.UWP\TiposLayout.UWP.csproj;x86
